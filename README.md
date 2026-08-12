@@ -2,6 +2,14 @@
 
 Frontend Web & Flutter Developer based in Majalengka, West Java, Indonesia
 
+What started as a simple curiosity about the web has evolved into a passion for building impactful digital solutions.
+
+Currently, my expertise centers on:
+- Frontend: Vue.js ecosystem
+- Backend: Rust
+- Mobile: Flutter (Android/iOS)
+- Infrastructure: AWS & PostgreSQL (Cloud-native)
+
 ## What I Work With
 
 **Languages**
