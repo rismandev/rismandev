@@ -18,6 +18,7 @@ Frontend Web & Flutter Developer based in Majalengka, West Java, Indonesia
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 
 **Infrastructure & Tools**
