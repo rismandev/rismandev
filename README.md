@@ -5,10 +5,10 @@ Frontend Web & Flutter Developer based in Majalengka, West Java, Indonesia
 What started as a simple curiosity about the web has evolved into a passion for building impactful digital solutions.
 
 Currently, my expertise centers on:
-- Frontend: Vue.js ecosystem
-- Backend: Rust
 - Mobile: Flutter (Android/iOS)
-- Infrastructure: AWS & PostgreSQL (Cloud-native)
+- Frontend: Vue.js, TypeScript & TailwindCSS
+- Backend: Rust
+- Infrastructure: VPS, Docker & Serverless using Vercel/Cloudflare Workers.
 
 ## What I Work With
 
@@ -31,7 +31,6 @@ Currently, my expertise centers on:
 
 **Infrastructure & Tools**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -44,5 +43,5 @@ Currently, my expertise centers on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rismandev)
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://www.threads.com/@rismandev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rismandev@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://rismandev.site)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://rismandev.id)
 
